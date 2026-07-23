@@ -1,0 +1,13 @@
+{
+  "itemGroup.dodgeable_skeletons": "Example Mod Tab",
+  "block.dodgeable_skeletons.example_block": "Example Block",
+  "item.dodgeable_skeletons.example_item": "Example Item",
+
+  "dodgeable_skeletons.configuration.title": "Dodgeable Skeletons Configs",
+  "dodgeable_skeletons.configuration.section.dodgeable_skeletons.common.toml": "Dodgeable Skeletons Configs",
+  "dodgeable_skeletons.configuration.section.dodgeable_skeletons.common.toml.title": "Dodgeable Skeletons Configs",
+  "dodgeable_skeletons.configuration.items": "Item List",
+  "dodgeable_skeletons.configuration.logDirtBlock": "Log Dirt Block",
+  "dodgeable_skeletons.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dodgeable_skeletons.configuration.magicNumber": "Magic Number"
+}

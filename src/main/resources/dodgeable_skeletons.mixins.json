@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.armet.dodgeable_skeletons.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractArrowMixin",
+    "AbstractSkeletonMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
